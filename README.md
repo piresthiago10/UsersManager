@@ -1,4 +1,4 @@
-# inChurch Challenge
+# Users Manager
 
  A small API to manage users in a company
 
