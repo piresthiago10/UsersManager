@@ -8,7 +8,7 @@
 
 ## System Requirements:
 
-* Python 3.6;
+* Pytho 3.6;
 * Django 3.1.7;
 * Django Rest Framework 3.12.2
 
